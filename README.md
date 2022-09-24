@@ -1,11 +1,11 @@
 # Quick Reader
 
-Don't read the  book :trollface: , just use Quick Reader   :sunglasses:
+Don't read the  book   :trollface: , just use Quick Reader   :sunglasses:
 
 
 <img src="https://thumbs.dreamstime.com/b/person-reader-books-studying-preparing-exam-speed-reading-education-knowledge-concept-woman-fiction-literature-leisure-256904883.jpg"
 align="right" 
-     title="Quick Reader" width="30%" height="30%">
+     title="Quick Reader" width="40%" height="35%">
 
 - Text summarization
 - Information retrieval
@@ -25,7 +25,7 @@ align="right"
 
 * The proposed system mainly focuses on scraping the data from image and providing the summary as well as keywords from the information extracted from  image
 
-* Quick Reade is really helpful for the visually impaired,  it will take image containing text as the input, extracts the text from the image, and converts this text to speech, it will summarize the text of the image for them.
+* Quick Reader is really helpful for the visually impaired,  it will take image containing text as the input, extracts the text from the image, and converts this text to speech, it will summarize the text of the image for them.
 
 
 
