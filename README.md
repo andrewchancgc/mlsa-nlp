@@ -73,6 +73,6 @@ This technique unlike extractive is much more complex and robust in producing su
 
 Text rankers are algorithms similar to web page ranking algorithms used to rank web pages. These rankers find the importance of the sentence in the document and provide ranks to the sentence, thereby providing us with the information of how important the sentence is.
 
-
+<br>
 
 ### Installation
