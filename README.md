@@ -75,4 +75,4 @@ Text rankers are algorithms similar to web page ranking algorithms used to rank 
 
 <br>
 
-### Installation
+
